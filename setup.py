@@ -41,7 +41,9 @@ setup(
         "Topic :: Internet :: WWW/HTTP",
         "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
         "Topic :: Software Development :: Libraries :: Python Modules",
+        "topic:: web development:: python modules",
     ],
+    
     keywords=["forms", "django", "crispy", "tailwind"],
     author="David Smith",
     author_email="smithdc@gmail.com",
