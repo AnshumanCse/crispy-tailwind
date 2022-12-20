@@ -30,6 +30,7 @@ setup(
         "Framework :: Django",
         "Framework :: Django :: 3.2",
         "Framework :: Django :: 4.0",
+        "Framework :: Django :: 5.0";
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Programming Language :: JavaScript",
@@ -53,3 +54,4 @@ setup(
     install_requires=["django-crispy-forms>=1.11.2", "django>=3.2"],
     zip_safe=False,
 )
+
